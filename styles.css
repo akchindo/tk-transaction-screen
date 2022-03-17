@@ -149,7 +149,7 @@ a {
 .headscreen {
     display: flex;
     justify-content: space-around;
-    width: 500px;
+    width: 700px;
     margin-left: 15px;
     padding: 10px;
     background-color: #239408;
@@ -170,10 +170,16 @@ a {
 .headscreen1 {
     display: flex;
     justify-content: space-around;
-    width: 500px;
+    width: 700px;
     margin-left: 15px;
     padding: 10px;
     border-bottom: 1px dotted #333;
+}
+
+.screendes {
+    /* margin-left: 40px; */
+    width: 170px;
+    /* margin-right: 40px; */
 }
 
 
@@ -191,3 +197,4 @@ a {
     margin-top: 80px;
     border-radius: 7px;
 }
+
